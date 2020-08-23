@@ -20,7 +20,7 @@
         }
 
         table {
-            border-color: black;
+            border-color: #000000;
             height: 20rem;
             width: 10rem;
         }
